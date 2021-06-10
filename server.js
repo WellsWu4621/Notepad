@@ -3,7 +3,6 @@ const apiRoutes = require("./routes/apiRoutes")
 const express = require('express')
 const { join } = require('path')
 const { uid } = require('uid')
-const fs = require('fs')
 const app = express()
 
 // bloiler

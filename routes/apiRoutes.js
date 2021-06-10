@@ -1,5 +1,4 @@
 var notes = require("../db/db.json");
-var fs = require("fs");
 const { uid } = require("uid");
 
 // ROUTING
